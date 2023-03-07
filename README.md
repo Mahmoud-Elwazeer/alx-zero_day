@@ -1,1 +1,2 @@
-My first readme
+## My Project
+  * This is my first project
